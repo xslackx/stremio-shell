@@ -25,9 +25,9 @@ Info: creating stash file /home/mendezr/development/misc/stremio-shell/.qmake.st
 Project ERROR: mpv development package not found
 ```
 
-Then you need to install the development package for mpv (movie player)
+Then you need to install the development package for mpv (movie player) and other deps
 
-``sudo apt-get install libmpv-dev``
+``sudo apt-get install libmpv-dev cmake wget librsvg2-bin``
 
 If you see this message:
 
